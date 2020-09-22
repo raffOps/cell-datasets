@@ -8,6 +8,6 @@
 
     1.2 ```cd cell-datasets```
 
-    1.3 ```conda env create -f environment.yml```
+    1.3 ```conda env create -f environment.yaml```
 
     1.4 ```conda activate cell-datasets```
