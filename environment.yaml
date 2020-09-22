@@ -191,5 +191,4 @@ dependencies:
     - tensorflow-estimator==2.3.0
     - tensorflow-gpu==2.3.0
     - tensorflow-gpu-estimator==2.3.0
-prefix: C:\Users\Rafa\Miniconda3\envs\tf2
 
