@@ -143,3 +143,5 @@ logs/
 dataset/images_800/
 
 dataset/name_images_800.csv
+
+*.png
